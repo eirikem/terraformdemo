@@ -8,11 +8,11 @@ variable "tenant_id" {
 }
 
 variable "location" {
-    tyoe = string
-    default = "westeurope"
+  type    = string
+  default = "westeurope"
 }
 
 variable "rg" {
-    type = string
-    default = "RG_EE"
+  type    = string
+  default = "RG_EE"
 }

@@ -1,2 +1,2 @@
-location            = "westeurope"
-rg                  = "RG_EE"
+location = "westeurope"
+rg       = "RG_EE"
