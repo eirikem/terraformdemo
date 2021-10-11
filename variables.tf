@@ -1,11 +1,11 @@
-variable "SUBSCRIPTION_ID" {
-  type = string
-}
+# variable "SUBSCRIPTION_ID" {
+#   type = string
+# }
 
-variable "TENANT_ID" {
-  type = string
+# variable "TENANT_ID" {
+#   type = string
 
-}
+# }
 
 variable "location" {
   type    = string
