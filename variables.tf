@@ -14,5 +14,5 @@ variable "location" {
 
 variable "rg" {
   type    = string
-  default = "RG_EE"
+  default = "MinRG"
 }
