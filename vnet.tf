@@ -4,5 +4,5 @@ resource "azurerm_virtual_network" "tfvnet1" {
   location            = var.location
   resource_group_name = var.rg
 
-  tags = var.tags
+#   tags = var.tags
 }
