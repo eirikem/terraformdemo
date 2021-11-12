@@ -14,5 +14,9 @@ variable "location" {
 
 variable "rg" {
   type    = string
-  default = "MinRG"
+  default = "RG_TechLunch"
+}
+
+variable "test" {
+  type = string
 }
