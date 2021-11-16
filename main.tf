@@ -9,6 +9,6 @@ terraform {
   required_version = ">= 1.0.4"
 }
 
-output "outputtestvar" {
-    value = var.test  
-}
+# output "outputtestvar" {
+#     value = var.test  
+# }
