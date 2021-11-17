@@ -18,6 +18,6 @@ variable "rg" {
 }
 
 variable "test" {
-  type = string
+  type    = string
   default = "123123123"
 }
